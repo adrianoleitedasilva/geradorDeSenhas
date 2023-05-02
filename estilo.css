@@ -38,7 +38,7 @@ body{
 }
 
 .input-box input{
-    width: 100%;
+    width: 85%;
     height: 53px;
     color: #000;
     background: none;
@@ -104,7 +104,7 @@ body{
 }
 
 .pass-length input{
-    width: 100%;
+    width: 80%;
     height: 5px;
 }
 
